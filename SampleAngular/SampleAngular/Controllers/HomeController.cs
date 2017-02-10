@@ -8,6 +8,7 @@ namespace SampleAngular.Controllers
 {
     public class HomeController : Controller
     {
+        /*This is test comment*/
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
